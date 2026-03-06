@@ -1,0 +1,23 @@
+{
+  "name": "d3fau1t",
+  "owner": {
+    "name": "d3fau1t",
+    "email": "acidlab.help@gmail.com"
+  },
+  "metadata": {
+    "description": "plugin marketplace for internal tooling",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "helper",
+      "source": {
+        "source": "github",
+        "repo": "aciddust/claude-code-helper"
+      },
+      "description": "claude code helper plugin r/ setup",
+      "version": "0.1.0",
+      "keywords": ["setup", "helper", "code"]
+    }
+  ]
+}
