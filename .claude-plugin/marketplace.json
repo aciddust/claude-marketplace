@@ -15,9 +15,19 @@
         "source": "github",
         "repo": "aciddust/claude-code-helper"
       },
-      "description": "claude code helper plugin r/ setup",
+      "description": "`/setup` 명령어를 사용하여 프로젝트의 언어와 프레임워크를 선택하면, 해당 설정에 맞는 초기 코드를 생성해줍니다. 이를 통해 개발자는 빠르게 프로젝트를 시작할 수 있습니다.",
       "version": "0.1.0",
       "keywords": ["setup", "helper", "code"]
+    },
+    {
+      "name": "google-chat-exporter",
+      "source": {
+        "source": "github",
+        "repo": "aciddust/google-chat-exporter"
+      },
+      "description": "Google Chat 대화 내용을 추출하는 도구입니다. Google Chat API를 사용하며, 대화 내용을 쉽게 보관하고 공유할 수 있습니다.",
+      "version": "0.1.0",
+      "keywords": ["google", "chat", "exporter"]
     }
   ]
 }
